@@ -1,6 +1,5 @@
 # exercice-repo
-gitHubHomework
-This will make a conflict!
-Making some changes here!
-Resolve the conflict!
+This project will contain...
+Repositori made for exercices.
+Hello, again!!!
 
