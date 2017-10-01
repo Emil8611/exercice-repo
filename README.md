@@ -7,5 +7,6 @@ I made changes from the Master!!!
 This project will contain...
 Repositori made for exercices.
 Hello, again!!!
+I'm making conflict with GitBash!
 
 
